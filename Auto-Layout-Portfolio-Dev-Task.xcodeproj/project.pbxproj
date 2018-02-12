@@ -42,6 +42,7 @@
 			children = (
 				81C9E3492031B29900C2C728 /* Auto-Layout-Portfolio-Dev-Task */,
 				81C9E3482031B29900C2C728 /* Products */,
+				81C9E35C2031BA6A00C2C728 /* README.rtfd */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,7 +57,6 @@
 		81C9E3492031B29900C2C728 /* Auto-Layout-Portfolio-Dev-Task */ = {
 			isa = PBXGroup;
 			children = (
-				81C9E35C2031BA6A00C2C728 /* README.rtfd */,
 				81C9E34A2031B29900C2C728 /* AppDelegate.swift */,
 				81C9E34C2031B29900C2C728 /* ViewController.swift */,
 				81C9E34E2031B29900C2C728 /* Main.storyboard */,
